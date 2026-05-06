@@ -28,20 +28,6 @@ The system retrieves relevant document chunks using semantic similarity search a
 
 ---
 
-## 🛠️ Tech Stack
-
-| Technology | Purpose |
-|---|---|
-| Python | Programming Language |
-| Streamlit | Frontend UI |
-| LangChain | LLM Orchestration |
-| Google Gemini API | LLM & Embeddings |
-| FAISS | Vector Database |
-| PyMuPDF | PDF Loader |
-| RecursiveCharacterTextSplitter | Text Chunking |
-
----
-
 ## 📂 Project Workflow
 
 1. Upload PDF/TXT file
